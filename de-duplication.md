@@ -1,3 +1,4 @@
+# De-duplication
 A cosine similarity matrix is built from all our email segments which gives a similarity score for any 2 segments marked 'relevant' in our data.
 
 Methodology devised from data exploration and score comparisons:
